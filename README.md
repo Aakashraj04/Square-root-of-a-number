@@ -16,7 +16,7 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-Program to find the square root for the given number(newton's method) using function.
+#Program to find the square root for the given number(newton's method) using function.
 Developed by: Aakashraj
 RegisterNumber: 22008579
 
